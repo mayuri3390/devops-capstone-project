@@ -1,4 +1,4 @@
-# devops-capstone-project
+
 # Buckaroo's Bargains - Customer Accounts Microservice
 
 ![CI Build](https://github.com/mayuri3390/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
